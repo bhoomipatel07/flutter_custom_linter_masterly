@@ -234,6 +234,6 @@ analyzer:
     prefer_is_empty: error
     prefer_is_not_empty: error
     sized_box_for_whitespace: error
-    sort_constructors_first: error
+#    sort_constructors_first: error
     unnecessary_string_escapes: error
 
