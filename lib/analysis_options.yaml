@@ -27,7 +27,7 @@ linter:
     - prefer_is_empty
     - prefer_is_not_empty
     - sized_box_for_whitespace
-    - sort_constructors_first
+#    - sort_constructors_first
     - unnecessary_string_escapes
 
 #      # Error rules
